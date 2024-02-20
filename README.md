@@ -17,10 +17,10 @@ To get started with running the tests locally or in a Docker container, follow t
 - Allure command-line tool installed (for generating and serving Allure reports)
 
 ### Installing Dependencies
-Before running the tests, install the project dependencies by running:
+Before running the tests, install the project dependencies with test skip by running:
 
 ```bash
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 ### Running Tests
