@@ -1,5 +1,3 @@
 0.ua.pool.ntp.org
 1.ua.pool.ntp.org
 2.ua.pool.ntp.org
-3.ua.pool.ntp.org
-4.ua.pool.ntp.org
